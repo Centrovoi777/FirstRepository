@@ -2,3 +2,4 @@ Good bye!
 Some other line
 line from user2
 dsadfvsdfvsd
+critical bug fix
